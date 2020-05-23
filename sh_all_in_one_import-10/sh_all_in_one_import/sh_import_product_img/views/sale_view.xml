@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+	
+<!-- SALE ORDER SIDE MENU -->
+  <menuitem 
+  	name="Import Product Image"
+  	action="sh_import_product_img_action" 
+  	id="sh_import_product_img_menu" 
+  	parent="sales_team.menu_sales"
+  	groups="sh_all_in_one_import.sh_import_product_img_group" 
+	sequence="13"  
+  />
+
+
+</odoo>
+  

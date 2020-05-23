@@ -1,0 +1,5 @@
+Name,Can be Sold?,Can be Purchased?,Product Type,Category,Unit of Measure,Purchase Unit of Measure,Customer Taxes,Vendor Taxes,Description for Customers,Invoicing Policy,Sales Price,Cost,variant Attributes,Attribute Values,Internal Reference,Barcode,Weight,Volume,Qty On Hand,Image path/url
+Product 305,,,Stockable Product,Physical,Dozen(s),Dozen(s),"Standard rate sales (17.5%),Standard rate sales (20%),   Sales to customers in EC,",Zero rated purchases,Pro 305 desc,,305,300,"color,style","blue,mmo",Pro_305_int_ref_1,,10,20,10,/home/1.png
+Product 305,,,,,,,,,,,,,"color,style","rose,mmo",Pro_205_int_ref_2,,11,22,11,https://www.pcc.edu/instructional-support/wp-content/uploads/sites/17/2018/03/Googledocslogo.png
+Product 306,FALSE,FALSE,Stockable Product,Software,,,,,Pro 306 desc,Delivered quantities,306,300,"abc,xyz","a,x",Pro_206_int_ref_1,,1,2,7,https://scdn.androidcommunity.com/wp-content/uploads/2016/05/Google-Docs-Sheets-Slides_33e379a21b2cf992ea3c65149d682427.jpg
+Product 306,,,,,,,,,,,,,"abc,xyz","b,z",Pro_206_int_ref_2,,10,15,8,
