@@ -1,0 +1,905 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+#	* biztech_report_template
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 10.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-09-30 04:56+0000\n"
+"PO-Revision-Date: 2016-09-30 04:56+0000\n"
+"Last-Translator: <>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: biztech_report_template
+#: view:website:biztech_report_template.exclusive_header
+msgid "Address"
+msgstr "عنوان"
+
+#. module: biztech_report_template
+#: model:ir.actions.report.xml,name:biztech_report_template.report_invoice_template_advanced
+msgid "Advanced"
+msgstr "متقدم"
+
+#. module: biztech_report_template
+#: view:website:biztech_report_template.report_invoice_advanced_main
+#: view:website:biztech_report_template.report_invoice_creative_main
+#: view:website:biztech_report_template.report_invoice_elegant_main
+#: view:website:biztech_report_template.report_invoice_exclusive_main
+#: view:website:biztech_report_template.report_invoice_professional_main
+#: view:website:biztech_report_template.report_invoice_template_main
+msgid "Amount"
+msgstr "المبلغ"
+
+#. module: biztech_report_template
+#: view:website:biztech_report_template.advanced_header
+#: view:website:biztech_report_template.professional_header
+msgid "Cancelled Invoice"
+msgstr "فاتورة ملغاة"
+
+#. module: biztech_report_template
+#: view:website:biztech_report_template.report_invoice_advanced_main
+#: view:website:biztech_report_template.report_invoice_creative_main
+#: view:website:biztech_report_template.report_invoice_elegant_main
+#: view:website:biztech_report_template.report_invoice_exclusive_main
+#: view:website:biztech_report_template.report_invoice_professional_main
+#: view:website:biztech_report_template.report_invoice_template_main
+msgid "Cancelled Invoice No:"
+msgstr "Cancelled Invoice No:"
+
+#. module: biztech_report_template
+#: view:website:biztech_report_template.exclusive_header
+#: view:website:biztech_report_template.report_invoice_advanced_main
+#: view:website:biztech_report_template.report_invoice_creative_main
+#: view:website:biztech_report_template.report_invoice_elegant_main
+#: view:website:biztech_report_template.report_invoice_professional_main
+#: view:website:biztech_report_template.report_invoice_template_main
+msgid "Cancelled Invoice To:"
+msgstr "فاتورة ألغي ل:"
+
+#. module: biztech_report_template
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_advanced_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_creative_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_elegant_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_exclusive_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_professional_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_template_main
+msgid "<b>Comment: </b>"
+msgstr "<b>التعليق: </b>"
+
+#. module: biztech_report_template
+#: model:ir.model,name:biztech_report_template.model_res_company
+msgid "Companies"
+msgstr "الشركات"
+
+#. module: biztech_report_template
+#: field:res.company,company_address_color:0
+msgid "Company Address Color"
+msgstr "عنوان الشركة اللون"
+
+#. module: biztech_report_template
+#: field:res.company,company_color:0
+msgid "Company Name Color"
+msgstr "اسم الشركة اللون"
+
+#. module: biztech_report_template
+#: model:ir.actions.report.xml,name:biztech_report_template.report_invoice_template_contemporary
+msgid "Contemporary"
+msgstr "معاصر"
+
+#. module: biztech_report_template
+#: model:ir.actions.report.xml,name:biztech_report_template.report_invoice_template_creative
+msgid "Creative"
+msgstr "خلاق"
+
+#. module: biztech_report_template
+#: field:res.company,customer_address_color:0
+msgid "Customer Address Color"
+msgstr "عنوان العملاء اللون"
+
+#. module: biztech_report_template
+#: field:res.company,customer_color:0
+msgid "Customer Name Color"
+msgstr "العميل اسم اللون"
+
+#. module: biztech_report_template
+#: view:website:biztech_report_template.report_invoice_advanced_main
+#: view:website:biztech_report_template.report_invoice_creative_main
+#: view:website:biztech_report_template.report_invoice_elegant_main
+#: view:website:biztech_report_template.report_invoice_exclusive_main
+#: view:website:biztech_report_template.report_invoice_professional_main
+#: view:website:biztech_report_template.report_invoice_template_main
+msgid "Date"
+msgstr "تاريخ"
+
+#. module: biztech_report_template
+#: field:res.company,report_template_id:0
+#: field:res.company,report_template_id1:0
+msgid "Default Invoice Template"
+msgstr "افتراضي الفاتورة قالب"
+
+#. module: biztech_report_template
+#: view:res.company:biztech_report_template.view_report_company_invoice_template
+msgid "Default Report Settings"
+msgstr "إعدادات تقرير الافتراضي"
+
+#. module: biztech_report_template
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_advanced_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_creative_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_elegant_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_exclusive_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_professional_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_template_main
+msgid "Description"
+msgstr "وصف"
+
+#. module: biztech_report_template
+#: view:website:biztech_report_template.report_invoice_advanced_main
+#: view:website:biztech_report_template.report_invoice_creative_main
+#: view:website:biztech_report_template.report_invoice_elegant_main
+#: view:website:biztech_report_template.report_invoice_exclusive_main
+#: view:website:biztech_report_template.report_invoice_professional_main
+#: view:website:biztech_report_template.report_invoice_template_main
+msgid "Disc.(%)"
+msgstr "نسبة الخصم (%)"
+
+#. module: biztech_report_template
+#: field:res.company,is_company_bold:0
+msgid "Display Company Name in Bold"
+msgstr "عرض اسم الشركة في جريئة"
+
+#. module: biztech_report_template
+#: field:res.company,is_customer_bold:0
+msgid "Display Customer Name in Bold"
+msgstr "عرض أسماء العملاء في جريئة"
+
+#. module: biztech_report_template
+#: field:res.company,is_description:0
+msgid "Display Product Description"
+msgstr "الوصف عرض المنتج"
+
+#. module: biztech_report_template
+#: view:website:biztech_report_template.advanced_header
+#: view:website:biztech_report_template.professional_header
+#: view:website:biztech_report_template.report_invoice_advanced_main
+#: view:website:biztech_report_template.report_invoice_creative_main
+#: view:website:biztech_report_template.report_invoice_elegant_main
+#: view:website:biztech_report_template.report_invoice_exclusive_main
+#: view:website:biztech_report_template.report_invoice_professional_main
+#: view:website:biztech_report_template.report_invoice_template_main
+msgid "Draft Invoice"
+msgstr "فاتورة أولية"
+
+#. module: biztech_report_template
+#: view:website:biztech_report_template.exclusive_header
+#: view:website:biztech_report_template.report_invoice_advanced_main
+#: view:website:biztech_report_template.report_invoice_creative_main
+#: view:website:biztech_report_template.report_invoice_elegant_main
+#: view:website:biztech_report_template.report_invoice_professional_main
+#: view:website:biztech_report_template.report_invoice_template_main
+msgid "Draft Invoice To:"
+msgstr "مشروع الفاتورة ل:"
+
+#. module: biztech_report_template
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_template_main
+msgid "<span class=\"text-left\">Due Date:</span>"
+msgstr "<span class=\"text-left\">تاريخ الاستحقاق:</span>"
+
+#. module: biztech_report_template
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_advanced_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_creative_main
+msgid "<b>Due Date:</b>"
+msgstr "<b>تاريخ الاستحقاق:</b>"
+
+#. module: biztech_report_template
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_elegant_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_exclusive_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_professional_main
+msgid "<b>Due Date:</b><br/>"
+msgstr "<b>تاريخ الاستحقاق:</b><br/>"
+
+#. module: biztech_report_template
+#: view:website:biztech_report_template.report_invoice_advanced_main_header
+#: view:website:biztech_report_template.report_invoice_creative_main_header
+#: view:website:biztech_report_template.report_invoice_elegant_main_header
+#: view:website:biztech_report_template.report_invoice_exclusive_main_header
+#: view:website:biztech_report_template.report_invoice_professional_main_header
+#: view:website:biztech_report_template.report_invoice_template_main_header
+msgid "Duplicate"
+msgstr "مكرر"
+
+#. module: biztech_report_template
+#: model:ir.actions.report.xml,name:biztech_report_template.report_invoice_template_elegant
+msgid "Elegant"
+msgstr "أنيق"
+
+#. module: biztech_report_template
+#: view:website:biztech_report_template.creative_header
+#: view:website:biztech_report_template.exclusive_header
+#: view:website:biztech_report_template.report_invoice_advanced_main
+#: view:website:biztech_report_template.report_invoice_creative_main
+#: view:website:biztech_report_template.report_invoice_elegant_main
+#: view:website:biztech_report_template.report_invoice_professional_main
+#: view:website:biztech_report_template.report_invoice_template_main
+#: view:website:biztech_report_template.template_header
+msgid "Email:"
+msgstr "البريد الإلكتروني:"
+
+#. module: biztech_report_template
+#: view:website:biztech_report_template.creative_header
+#: view:website:biztech_report_template.exclusive_header
+#: view:website:biztech_report_template.report_invoice_advanced_main
+#: view:website:biztech_report_template.report_invoice_creative_main
+#: view:website:biztech_report_template.report_invoice_elegant_main
+#: view:website:biztech_report_template.report_invoice_professional_main
+#: view:website:biztech_report_template.report_invoice_template_main
+#: view:website:biztech_report_template.template_header
+msgid "TIN:"
+msgstr "ضريبة:"
+
+#. module: biztech_report_template
+#: model:ir.actions.report.xml,name:biztech_report_template.report_invoice_template_exclusive
+msgid "Exclusive"
+msgstr "حصرية"
+
+#. module: biztech_report_template
+#: view:website:biztech_report_template.report_invoice_advanced_main
+#: view:website:biztech_report_template.report_invoice_creative_main
+#: view:website:biztech_report_template.report_invoice_elegant_main
+#: view:website:biztech_report_template.report_invoice_exclusive_main
+#: view:website:biztech_report_template.report_invoice_professional_main
+#: view:website:biztech_report_template.report_invoice_template_main
+msgid "Fiscal Position Remark:"
+msgstr "ملاحظة الوضع المالي:"
+
+#. module: biztech_report_template
+#: field:res.company,text_color:0
+msgid "General Text Color"
+msgstr "لون الخط العام"
+
+#. module: biztech_report_template
+#: model:ir.model,name:biztech_report_template.model_account_invoice
+#: view:website:biztech_report_template.advanced_header
+#: view:website:biztech_report_template.professional_header
+msgid "Invoice"
+msgstr "الفاتورة"
+
+#. module: biztech_report_template
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_template_main
+msgid "<span class=\"text-left\">Invoice Date:</span>"
+msgstr "<span class=\"text-left\">تاريخ الفاتورة:</span>"
+
+#. module: biztech_report_template
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_advanced_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_creative_main
+msgid "<b>Invoice Date:</b>"
+msgstr "<b>تاريخ الفاتورة:</b>"
+
+#. module: biztech_report_template
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_elegant_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_exclusive_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_professional_main
+msgid "<b>Invoice Date:</b><br/>"
+msgstr "<b>تاريخ الفاتورة:</b><br/>"
+
+#. module: biztech_report_template
+#: view:website:biztech_report_template.report_invoice_advanced_main
+#: view:website:biztech_report_template.report_invoice_creative_main
+#: view:website:biztech_report_template.report_invoice_elegant_main
+#: view:website:biztech_report_template.report_invoice_exclusive_main
+#: view:website:biztech_report_template.report_invoice_professional_main
+#: view:website:biztech_report_template.report_invoice_template_main
+msgid "Invoice No:"
+msgstr "رقم الفاتورة:"
+
+#. module: biztech_report_template
+#: field:account.invoice,report_template_id:0
+#: field:account.invoice,report_template_id1:0
+#: view:res.partner:biztech_report_template.view_report_partner_invoice_template
+#: field:res.partner,report_template_id:0
+#: field:res.partner,report_template_id1:0
+msgid "Invoice Template"
+msgstr "قالب الفاتورة"
+
+#. module: biztech_report_template
+#: view:website:biztech_report_template.exclusive_header
+#: view:website:biztech_report_template.report_invoice_advanced_main
+#: view:website:biztech_report_template.report_invoice_creative_main
+#: view:website:biztech_report_template.report_invoice_elegant_main
+#: view:website:biztech_report_template.report_invoice_professional_main
+#: view:website:biztech_report_template.report_invoice_template_main
+msgid "Invoice To:"
+msgstr "فاتورة إلى:"
+
+#. module: biztech_report_template
+#: view:website:biztech_report_template.report_invoice_advanced_main
+#: view:website:biztech_report_template.report_invoice_creative_main
+#: view:website:biztech_report_template.report_invoice_elegant_main
+#: view:website:biztech_report_template.report_invoice_exclusive_main
+#: view:website:biztech_report_template.report_invoice_professional_main
+#: view:website:biztech_report_template.report_invoice_template_main
+msgid "Method"
+msgstr "طريقة"
+
+#. module: biztech_report_template
+#: view:website:biztech_report_template.creative_header
+#: view:website:biztech_report_template.exclusive_header
+#: view:website:biztech_report_template.report_invoice_advanced_main
+#: view:website:biztech_report_template.report_invoice_creative_main
+#: view:website:biztech_report_template.report_invoice_elegant_main
+#: view:website:biztech_report_template.report_invoice_professional_main
+#: view:website:biztech_report_template.report_invoice_template_main
+#: view:website:biztech_report_template.template_header
+msgid "Mobile:"
+msgstr "التليفون المحمول:"
+
+#. module: biztech_report_template
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_advanced_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_creative_main
+msgid "<b>Order Date:</b>"
+msgstr "<b>تاريخ الطلب:</b>"
+
+#. module: biztech_report_template
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_elegant_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_exclusive_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_professional_main
+msgid "<b>Order Date:</b><br/>"
+msgstr "<b>تاريخ الطلب:</b><br/>"
+
+#. module: biztech_report_template
+#: view:website:biztech_report_template.report_invoice_advanced_main
+#: view:website:biztech_report_template.report_invoice_creative_main
+#: view:website:biztech_report_template.report_invoice_elegant_main
+#: view:website:biztech_report_template.report_invoice_exclusive_main
+#: view:website:biztech_report_template.report_invoice_professional_main
+#: view:website:biztech_report_template.report_invoice_template_main
+msgid "PO:"
+msgstr "PO:"
+
+#. module: biztech_report_template
+#: view:website:biztech_report_template.advanced_header
+#: view:website:biztech_report_template.professional_header
+msgid "PRO-FORMA"
+msgstr "الشكلية"
+
+#. module: biztech_report_template
+#: view:website:biztech_report_template.report_invoice_advanced_main
+#: view:website:biztech_report_template.report_invoice_creative_main
+#: view:website:biztech_report_template.report_invoice_elegant_main
+#: view:website:biztech_report_template.report_invoice_exclusive_main
+#: view:website:biztech_report_template.report_invoice_professional_main
+#: view:website:biztech_report_template.report_invoice_template_main
+msgid "PRO-FORMA No:"
+msgstr "الشكلية لا:"
+
+#. module: biztech_report_template
+#: view:website:biztech_report_template.exclusive_header
+#: view:website:biztech_report_template.report_invoice_advanced_main
+#: view:website:biztech_report_template.report_invoice_creative_main
+#: view:website:biztech_report_template.report_invoice_elegant_main
+#: view:website:biztech_report_template.report_invoice_professional_main
+#: view:website:biztech_report_template.report_invoice_template_main
+msgid "PRO-FORMA To:"
+msgstr "الشكلية ل:"
+
+#. module: biztech_report_template
+#: model:ir.model,name:biztech_report_template.model_res_partner
+msgid "Partner"
+msgstr "شريك"
+
+#. module: biztech_report_template
+#: view:website:biztech_report_template.report_invoice_advanced_main
+#: view:website:biztech_report_template.report_invoice_creative_main
+#: view:website:biztech_report_template.report_invoice_elegant_main
+#: view:website:biztech_report_template.report_invoice_exclusive_main
+#: view:website:biztech_report_template.report_invoice_professional_main
+#: view:website:biztech_report_template.report_invoice_template_main
+msgid "Payment History"
+msgstr "تاريخ الدفع"
+
+#. module: biztech_report_template
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_advanced_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_creative_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_elegant_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_exclusive_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_professional_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_template_main
+msgid "<b>Payment Term: </b>"
+msgstr "شرط السداد:"
+
+
+#. module: biztech_report_template
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_advanced_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_creative_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_elegant_main
+msgid "<b>Payments is Pending</b>"
+msgstr "<b>دفعات في انتظار المراجعة</b>"
+
+#. module: biztech_report_template
+#: view:website:biztech_report_template.report_invoice_exclusive_main
+#: view:website:biztech_report_template.report_invoice_professional_main
+#: view:website:biztech_report_template.report_invoice_template_main
+msgid "Payments is Pending"
+msgstr "دفعات في انتظار المراجعة"
+
+#. module: biztech_report_template
+#: help:res.company,is_company_bold:0
+msgid "Please check it if you want to show Company Name in Bold."
+msgstr "يرجى التحقق من ذلك إذا كنت تريد أن تظهر اسم الشركة في جريئة."
+
+#. module: biztech_report_template
+#: help:res.company,is_customer_bold:0
+msgid "Please check it if you want to show Customer Name in Bold."
+msgstr "يرجى التحقق من ذلك إذا كنت تريد أن تظهر اسم العميل في جريئة."
+
+#. module: biztech_report_template
+#: help:res.company,is_description:0
+msgid "Please check it if you want to show product description in report."
+msgstr "يرجى التحقق من ذلك إذا كنت تريد أن تظهر وصف المنتج في تقرير."
+
+#. module: biztech_report_template
+#: help:account.invoice,report_template_id:0
+#: help:account.invoice,report_template_id1:0
+#: help:res.company,report_template_id:0
+#: help:res.company,report_template_id1:0
+#: help:res.partner,report_template_id:0
+#: help:res.partner,report_template_id1:0
+msgid "Please select Template report for Invoice"
+msgstr "يرجى تحديد نموذج تقرير عن الفاتورة"
+
+#. module: biztech_report_template
+#: help:res.company,company_address_color:0
+msgid "Please set Hex color for Company Address."
+msgstr "يرجى تحديد اللون عرافة لعنوان الشركة."
+
+#. module: biztech_report_template
+#: help:res.company,company_color:0
+msgid "Please set Hex color for Company Name."
+msgstr "يرجى تحديد اللون عرافة لاسم الشركة."
+
+#. module: biztech_report_template
+#: help:res.company,customer_address_color:0
+msgid "Please set Hex color for Customer Address."
+msgstr "يرجى تحديد اللون عرافة لعنوان العملاء."
+
+#. module: biztech_report_template
+#: help:res.company,customer_color:0
+msgid "Please set Hex color for Customer Name."
+msgstr "يرجى تحديد اللون عرافة لاسم العميل."
+
+#. module: biztech_report_template
+#: help:res.company,text_color:0
+msgid "Please set Hex color for General Text."
+msgstr "يرجى تحديد اللون عرافة للنص العام."
+
+#. module: biztech_report_template
+#: help:res.company,even_party_color:0
+msgid "Please set Hex color for Table Even Parity."
+msgstr "يرجى تحديد اللون عرافة لجدول حتى التعادل."
+
+#. module: biztech_report_template
+#: help:res.company,odd_party_color:0
+msgid "Please set Hex color for Table Odd Parity."
+msgstr "الرجاء ضبط عرافة لون الجدول الغريب التعادل."
+
+#. module: biztech_report_template
+#: help:res.company,theme_text_color:0
+msgid "Please set Hex color for Template Text."
+msgstr "يرجى تحديد اللون عرافة لنص قالب."
+
+#. module: biztech_report_template
+#: help:res.company,theme_color:0
+msgid "Please set Hex color for Template."
+msgstr "يرجى تحديد اللون عرافة لقالب."
+
+#. module: biztech_report_template
+#: help:res.company,watermark_logo:0
+msgid "Please set Watermark Logo for Report."
+msgstr "يرجى وضع علامة مائية شعار للتقرير."
+
+#. module: biztech_report_template
+#: view:website:biztech_report_template.report_invoice_advanced_main
+#: view:website:biztech_report_template.report_invoice_creative_main
+#: view:website:biztech_report_template.report_invoice_elegant_main
+#: view:website:biztech_report_template.report_invoice_exclusive_main
+#: view:website:biztech_report_template.report_invoice_professional_main
+#: view:website:biztech_report_template.report_invoice_template_main
+msgid "Price"
+msgstr "السعر"
+
+#. module: biztech_report_template
+#: model:ir.actions.report.xml,name:biztech_report_template.report_invoice_template_professional
+msgid "Professional"
+msgstr "محترف"
+
+#. module: biztech_report_template
+#: model:ir.model,name:biztech_report_template.model_purchase_order
+msgid "Purchase Order"
+msgstr "أمر الشراء"
+
+#. module: biztech_report_template
+#: view:website:biztech_report_template.report_invoice_advanced_main
+#: view:website:biztech_report_template.report_invoice_creative_main
+#: view:website:biztech_report_template.report_invoice_elegant_main
+#: view:website:biztech_report_template.report_invoice_exclusive_main
+#: view:website:biztech_report_template.report_invoice_professional_main
+#: view:website:biztech_report_template.report_invoice_template_main
+msgid "Quantity"
+msgstr "كمية"
+
+#. module: biztech_report_template
+#: view:website:biztech_report_template.report_invoice_advanced_main
+#: view:website:biztech_report_template.report_invoice_creative_main
+#: view:website:biztech_report_template.report_invoice_elegant_main
+#: view:website:biztech_report_template.report_invoice_exclusive_main
+#: view:website:biztech_report_template.report_invoice_professional_main
+#: view:website:biztech_report_template.report_invoice_template_main
+msgid "Ref."
+msgstr "Ref."
+
+#. module: biztech_report_template
+#: view:website:biztech_report_template.advanced_header
+#: view:website:biztech_report_template.professional_header
+msgid "Refund"
+msgstr "رد"
+
+#. module: biztech_report_template
+#: view:website:biztech_report_template.report_invoice_advanced_main
+#: view:website:biztech_report_template.report_invoice_creative_main
+#: view:website:biztech_report_template.report_invoice_elegant_main
+#: view:website:biztech_report_template.report_invoice_exclusive_main
+#: view:website:biztech_report_template.report_invoice_professional_main
+#: view:website:biztech_report_template.report_invoice_template_main
+msgid "Refund No:"
+msgstr "برد لا:"
+
+#. module: biztech_report_template
+#: view:website:biztech_report_template.exclusive_header
+#: view:website:biztech_report_template.report_invoice_advanced_main
+#: view:website:biztech_report_template.report_invoice_creative_main
+#: view:website:biztech_report_template.report_invoice_elegant_main
+#: view:website:biztech_report_template.report_invoice_professional_main
+#: view:website:biztech_report_template.report_invoice_template_main
+msgid "Refund To:"
+msgstr "استرداد ل:"
+
+#. module: biztech_report_template
+#: model:ir.model,name:biztech_report_template.model_report
+msgid "Report"
+msgstr "التقرير"
+
+#. module: biztech_report_template
+#: view:res.partner:biztech_report_template.view_report_partner_invoice_template
+msgid "Report Configuration"
+msgstr "تكوين تقرير"
+
+#. module: biztech_report_template
+#: field:res.company,invoice_logo:0
+msgid "Report Logo"
+msgstr "تقرير شعار"
+
+#. module: biztech_report_template
+#: field:res.company,watermark_logo:0
+msgid "Report Watermark Logo"
+msgstr "تقرير مائية الشعار"
+
+#. module: biztech_report_template
+#: view:website:biztech_report_template.report_invoice_advanced_main
+#: view:website:biztech_report_template.report_invoice_creative_main
+#: view:website:biztech_report_template.report_invoice_elegant_main
+#: view:website:biztech_report_template.report_invoice_exclusive_main
+#: view:website:biztech_report_template.report_invoice_professional_main
+#: view:website:biztech_report_template.report_invoice_template_main
+msgid "SO:"
+msgstr "وبالتالي:"
+
+#. module: biztech_report_template
+#: model:ir.model,name:biztech_report_template.model_sale_order
+msgid "Sales Order"
+msgstr "أمر البيع"
+
+#. module: biztech_report_template
+#: view:website:biztech_report_template.report_invoice_advanced_main
+#: view:website:biztech_report_template.report_invoice_creative_main
+#: view:website:biztech_report_template.report_invoice_elegant_main
+#: view:website:biztech_report_template.report_invoice_exclusive_main
+#: view:website:biztech_report_template.report_invoice_professional_main
+#: view:website:biztech_report_template.report_invoice_template_main
+msgid "Sr."
+msgstr "ريال سعودى."
+
+#. module: biztech_report_template
+#: view:website:biztech_report_template.report_invoice_advanced_main
+#: view:website:biztech_report_template.report_invoice_creative_main
+#: view:website:biztech_report_template.report_invoice_elegant_main
+#: view:website:biztech_report_template.report_invoice_exclusive_main
+#: view:website:biztech_report_template.report_invoice_professional_main
+#: view:website:biztech_report_template.report_invoice_template_main
+msgid "SubTotal"
+msgstr "حاصل الجمع"
+
+#. module: biztech_report_template
+#: field:res.company,even_party_color:0
+msgid "Table Even Parity Color"
+msgstr "الجدول حتى التعادل اللون"
+
+#. module: biztech_report_template
+#: field:res.company,odd_party_color:0
+msgid "Table Odd Parity Color"
+msgstr "الجدول تعادل الغريب اللون"
+
+#. module: biztech_report_template
+#: view:website:biztech_report_template.report_invoice_advanced_main
+#: view:website:biztech_report_template.report_invoice_creative_main
+#: view:website:biztech_report_template.report_invoice_elegant_main
+#: view:website:biztech_report_template.report_invoice_exclusive_main
+#: view:website:biztech_report_template.report_invoice_professional_main
+#: view:website:biztech_report_template.report_invoice_template_main
+msgid "Tax"
+msgstr "ضريبة"
+
+#. module: biztech_report_template
+#: view:website:biztech_report_template.report_invoice_advanced_main
+#: view:website:biztech_report_template.report_invoice_creative_main
+#: view:website:biztech_report_template.report_invoice_elegant_main
+#: view:website:biztech_report_template.report_invoice_exclusive_main
+#: view:website:biztech_report_template.report_invoice_professional_main
+#: view:website:biztech_report_template.report_invoice_template_main
+msgid "Taxes"
+msgstr "الضرائب"
+
+#. module: biztech_report_template
+#: field:res.company,theme_color:0
+msgid "Template Base Color"
+msgstr "قالب اللون قاعدة"
+
+#. module: biztech_report_template
+#: field:res.company,theme_text_color:0
+msgid "Template Text Color"
+msgstr "قالب لون الخط"
+
+#. module: biztech_report_template
+#: help:res.company,invoice_logo:0
+msgid "This field holds the image used as Logo for Invoice template report"
+msgstr "هذا المجال يحمل صورة تستخدم شعار لتقرير قالب الفاتورة"
+
+#. module: biztech_report_template
+#: view:website:biztech_report_template.report_invoice_advanced_main
+#: view:website:biztech_report_template.report_invoice_creative_main
+#: view:website:biztech_report_template.report_invoice_elegant_main
+#: view:website:biztech_report_template.report_invoice_exclusive_main
+#: view:website:biztech_report_template.report_invoice_professional_main
+#: view:website:biztech_report_template.report_invoice_template_main
+msgid "Unit Price"
+msgstr "سعر الوحدة"
+
+#. module: biztech_report_template
+#: view:website:biztech_report_template.advanced_header
+#: view:website:biztech_report_template.professional_header
+msgid "Vendor Bill"
+msgstr "بيل بائع"
+
+#. module: biztech_report_template
+#: view:website:biztech_report_template.report_invoice_advanced_main
+#: view:website:biztech_report_template.report_invoice_creative_main
+#: view:website:biztech_report_template.report_invoice_elegant_main
+#: view:website:biztech_report_template.report_invoice_exclusive_main
+#: view:website:biztech_report_template.report_invoice_professional_main
+#: view:website:biztech_report_template.report_invoice_template_main
+msgid "Vendor Bill No:"
+msgstr "بائع بيل لا:"
+
+#. module: biztech_report_template
+#: view:website:biztech_report_template.exclusive_header
+#: view:website:biztech_report_template.report_invoice_advanced_main
+#: view:website:biztech_report_template.report_invoice_creative_main
+#: view:website:biztech_report_template.report_invoice_elegant_main
+#: view:website:biztech_report_template.report_invoice_professional_main
+#: view:website:biztech_report_template.report_invoice_template_main
+msgid "Vendor Bill To:"
+msgstr "بائع بيل ل:"
+
+#. module: biztech_report_template
+#: view:website:biztech_report_template.advanced_header
+#: view:website:biztech_report_template.professional_header
+msgid "Vendor Refund"
+msgstr "بائع استرداد الأموال"
+
+#. module: biztech_report_template
+#: view:website:biztech_report_template.report_invoice_advanced_main
+#: view:website:biztech_report_template.report_invoice_creative_main
+#: view:website:biztech_report_template.report_invoice_elegant_main
+#: view:website:biztech_report_template.report_invoice_exclusive_main
+#: view:website:biztech_report_template.report_invoice_professional_main
+#: view:website:biztech_report_template.report_invoice_template_main
+msgid "Vendor Refund No:"
+msgstr "بائع استرداد الأموال لا:"
+
+#. module: biztech_report_template
+#: view:website:biztech_report_template.exclusive_header
+#: view:website:biztech_report_template.report_invoice_advanced_main
+#: view:website:biztech_report_template.report_invoice_creative_main
+#: view:website:biztech_report_template.report_invoice_elegant_main
+#: view:website:biztech_report_template.report_invoice_professional_main
+#: view:website:biztech_report_template.report_invoice_template_main
+msgid "Vendor Refund To:"
+msgstr "بائع برد:"
+
+#. module: biztech_report_template
+#: view:website:biztech_report_template.report_invoice_advanced_main_duplicate
+msgid "biztech_report_template.advanced_external_layout_duplicate"
+msgstr "biztech_report_template.advanced_external_layout_duplicate"
+
+#. module: biztech_report_template
+#: view:website:biztech_report_template.report_invoice_creative_main_duplicate
+msgid "biztech_report_template.creative_external_layout_duplicate"
+msgstr "biztech_report_template.creative_external_layout_duplicate"
+
+#. module: biztech_report_template
+#: view:website:biztech_report_template.report_invoice_elegant_main_duplicate
+msgid "biztech_report_template.elegant_external_layout_duplicate"
+msgstr "biztech_report_template.elegant_external_layout_duplicate"
+
+#. module: biztech_report_template
+#: view:website:biztech_report_template.report_invoice_exclusive_main_duplicate
+msgid "biztech_report_template.exclusive_external_layout_duplicate"
+msgstr "biztech_report_template.exclusive_external_layout_duplicate"
+
+#. module: biztech_report_template
+#: view:website:biztech_report_template.report_invoice_professional_main_duplicate
+msgid "biztech_report_template.professional_external_layout_duplicate"
+msgstr "biztech_report_template.professional_external_layout_duplicate"
+
+#. module: biztech_report_template
+#: view:website:biztech_report_template.report_invoice_advanced_main_duplicate
+msgid "biztech_report_template.report_invoice_advanced_main_duplicate"
+msgstr "biztech_report_template.report_invoice_advanced_main_duplicate"
+
+#. module: biztech_report_template
+#: view:website:biztech_report_template.report_invoice_advanced_main_header
+msgid "biztech_report_template.report_invoice_advanced_main_header"
+msgstr "biztech_report_template.report_invoice_advanced_main_header"
+
+#. module: biztech_report_template
+#: view:website:biztech_report_template.report_invoice_creative_main_duplicate
+msgid "biztech_report_template.report_invoice_creative_main_duplicate"
+msgstr "biztech_report_template.report_invoice_creative_main_duplicate"
+
+#. module: biztech_report_template
+#: view:website:biztech_report_template.report_invoice_creative_main_header
+msgid "biztech_report_template.report_invoice_creative_main_header"
+msgstr "biztech_report_template.report_invoice_creative_main_header"
+
+#. module: biztech_report_template
+#: view:website:biztech_report_template.report_invoice_elegant_main_duplicate
+msgid "biztech_report_template.report_invoice_elegant_main_duplicate"
+msgstr "biztech_report_template.report_invoice_elegant_main_duplicate"
+
+#. module: biztech_report_template
+#: view:website:biztech_report_template.report_invoice_elegant_main_header
+msgid "biztech_report_template.report_invoice_elegant_main_header"
+msgstr "biztech_report_template.report_invoice_elegant_main_header"
+
+#. module: biztech_report_template
+#: view:website:biztech_report_template.report_invoice_exclusive_main_duplicate
+msgid "biztech_report_template.report_invoice_exclusive_main_duplicate"
+msgstr "biztech_report_template.report_invoice_exclusive_main_duplicate"
+
+#. module: biztech_report_template
+#: view:website:biztech_report_template.report_invoice_exclusive_main_header
+msgid "biztech_report_template.report_invoice_exclusive_main_header"
+msgstr "biztech_report_template.report_invoice_exclusive_main_header"
+
+#. module: biztech_report_template
+#: view:website:biztech_report_template.report_invoice_professional_main_duplicate
+msgid "biztech_report_template.report_invoice_professional_main_duplicate"
+msgstr "biztech_report_template.report_invoice_professional_main_duplicate"
+
+#. module: biztech_report_template
+#: view:website:biztech_report_template.report_invoice_professional_main_header
+msgid "biztech_report_template.report_invoice_professional_main_header"
+msgstr "biztech_report_template.report_invoice_professional_main_header"
+
+#. module: biztech_report_template
+#: view:website:biztech_report_template.report_invoice_template_main_duplicate
+msgid "biztech_report_template.report_invoice_template_main_duplicate"
+msgstr "biztech_report_template.report_invoice_template_main_duplicate"
+
+#. module: biztech_report_template
+#: view:website:biztech_report_template.report_invoice_template_main_header
+msgid "biztech_report_template.report_invoice_template_main_header"
+msgstr "biztech_report_template.report_invoice_template_main_header"
+
+#. module: biztech_report_template
+#: view:website:biztech_report_template.report_invoice_template_main_duplicate
+msgid "biztech_report_template.template_external_layout_duplicate"
+msgstr "biztech_report_template.template_external_layout_duplicate"
+
+#. module: biztech_report_template
+#: view:res.company:biztech_report_template.view_report_company_invoice_template
+msgid "like #2763a1"
+msgstr "like #2763a1"
+
+#. module: biztech_report_template
+#: view:res.company:biztech_report_template.view_report_company_invoice_template
+msgid "like #2763c1"
+msgstr "like #2763c1"
+
+#. module: biztech_report_template
+#: view:res.company:biztech_report_template.view_report_company_invoice_template
+msgid "like #5bb3d2"
+msgstr "like #5bb3d2"
+
+#. module: biztech_report_template
+#: view:res.company:biztech_report_template.view_report_company_invoice_template
+msgid "like #5cc2d2"
+msgstr "like #5cc2d2"
+
+#. module: biztech_report_template
+#: view:res.company:biztech_report_template.view_report_company_invoice_template
+msgid "like #aea8a8"
+msgstr "like #aea8a8"
+
+#. module: biztech_report_template
+#: view:res.company:biztech_report_template.view_report_company_invoice_template
+msgid "like #aea8aa"
+msgstr "like #aea8aa"
+
+#. module: biztech_report_template
+#: view:res.company:biztech_report_template.view_report_company_invoice_template
+msgid "like #b30000"
+msgstr "like #b30000"
+
+#. module: biztech_report_template
+#: view:res.company:biztech_report_template.view_report_company_invoice_template
+msgid "like #b30010"
+msgstr "like #b30010"
+
+#. module: biztech_report_template
+#: view:res.company:biztech_report_template.view_report_company_invoice_template
+msgid "like #d4d2d2"
+msgstr "like #d4d2d2"
+
+#. module: biztech_report_template
+#: view:website:biztech_report_template.report_invoice_advanced_main
+#: view:website:biztech_report_template.report_invoice_creative_main
+#: view:website:biztech_report_template.report_invoice_elegant_main
+#: view:website:biztech_report_template.report_invoice_exclusive_main
+#: view:website:biztech_report_template.report_invoice_professional_main
+#: view:website:biztech_report_template.report_invoice_template_main
+msgid "total"
+msgstr "مجموع"
+
+#. module: biztech_report_template
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_advanced_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_creative_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_elegant_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_exclusive_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_professional_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_template_main
+msgid "Payment Status: Fully Paid"
+msgstr "حالة السداد: مدفوع بشكل كامل"
+
+#. module: biztech_report_template
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_advanced_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_creative_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_elegant_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_exclusive_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_professional_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_template_main
+msgid "Payment Status: Partial Paid"
+msgstr "حالة السداد: جزئية المدفوعة"
+
+#. module: biztech_report_template
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_advanced_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_creative_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_elegant_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_exclusive_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_professional_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_template_main
+msgid "Payment Status: Pending"
+msgstr "حالة السداد: ريثما"

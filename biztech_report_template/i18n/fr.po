@@ -1,0 +1,841 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+#	* biztech_report_template
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 10.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-09-28 13:47+0000\n"
+"PO-Revision-Date: 2016-09-28 13:47+0000\n"
+"Last-Translator: <>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: biztech_report_template
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_advanced_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_creative_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_elegant_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_exclusive_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_professional_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_template_main
+msgid "<b>Comment: </b>"
+msgstr "<b>Commentaire: </b>"
+
+#. module: biztech_report_template
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_advanced_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_creative_main
+msgid "<b>Description:</b>"
+msgstr "<b>La description:</b>"
+
+#. module: biztech_report_template
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_elegant_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_exclusive_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_professional_main
+msgid "<b>Description:</b><br/>"
+msgstr "<b>La description:</b><br/>"
+
+#. module: biztech_report_template
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_advanced_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_creative_main
+msgid "<b>Due Date:</b>"
+msgstr "<b>Date d'échéance:</b>"
+
+#. module: biztech_report_template
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_elegant_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_exclusive_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_professional_main
+msgid "<b>Due Date:</b><br/>"
+msgstr "<b>Date d'échéance:</b><br/>"
+
+#. module: biztech_report_template
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_advanced_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_creative_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_elegant_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_exclusive_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_professional_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_template_main
+msgid "<b>Fiscal Position Remark: </b>"
+msgstr "<b>Remarque de Position Fiscale: </b>"
+
+#. module: biztech_report_template
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_advanced_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_creative_main
+msgid "<b>Invoice Date:</b>"
+msgstr "<b>date de la facture:</b>"
+
+#. module: biztech_report_template
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_elegant_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_exclusive_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_professional_main
+msgid "<b>Invoice Date:</b><br/>"
+msgstr "<b>date de la facture:</b><br/>"
+
+#. module: biztech_report_template
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_advanced_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_creative_main
+msgid "<b>Order Date:</b>"
+msgstr "<b>Date de la commande:</b>"
+
+#. module: biztech_report_template
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_elegant_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_exclusive_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_professional_main
+msgid "<b>Order Date:</b><br/>"
+msgstr "<b>Date de la commande:</b><br/>"
+
+#. module: biztech_report_template
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_advanced_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_creative_main
+msgid "<b>Payment History</b>"
+msgstr "<b>historique de paiement</b>"
+
+#. module: biztech_report_template
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_advanced_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_creative_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_elegant_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_exclusive_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_professional_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_template_main
+msgid "<b>Payment Term: </b>"
+msgstr "<b>Terme de paiement: </b>"
+
+#. module: biztech_report_template
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_advanced_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_creative_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_elegant_main
+msgid "<b>Payment is Pending</b>"
+msgstr "<b>Les paiements est en attente</b>"
+
+#. module: biztech_report_template
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_template_main
+msgid "<span class=\"text-left\">Description:</span>"
+msgstr "<span class=\"text-left\">La description:</span>"
+
+#. module: biztech_report_template
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_template_main
+msgid "<span class=\"text-left\">Due Date:</span>"
+msgstr "<span class=\"text-left\">Date d'échéance:</span>"
+
+#. module: biztech_report_template
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_template_main
+msgid "<span class=\"text-left\">Invoice Date:</span>"
+msgstr "<span class=\"text-left\">date de la facture:</span>"
+
+#. module: biztech_report_template
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_template_main
+msgid "<span class=\"text-left\">Order Date:</span>"
+msgstr "<span class=\"text-left\">Date de la commande:</span>"
+
+#. module: biztech_report_template
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_advanced_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_creative_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_elegant_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_exclusive_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_professional_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_template_main
+msgid "<span>Taxes</span>"
+msgstr "<span>Taxes</span>"
+
+#. module: biztech_report_template
+#: model:ir.ui.view,arch_db:biztech_report_template.exclusive_header
+msgid "Address"
+msgstr "Adresse"
+
+#. module: biztech_report_template
+#: model:ir.actions.report.xml,name:biztech_report_template.report_invoice_template_advanced
+msgid "Advanced"
+msgstr "Avancée"
+
+#. module: biztech_report_template
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_advanced_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_creative_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_elegant_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_exclusive_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_professional_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_template_main
+msgid "Amount"
+msgstr "Montant"
+
+#. module: biztech_report_template
+#: model:ir.ui.view,arch_db:biztech_report_template.advanced_header
+#: model:ir.ui.view,arch_db:biztech_report_template.professional_header
+msgid "Cancelled Invoice"
+msgstr "Facture annulée"
+
+#. module: biztech_report_template
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_advanced_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_creative_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_elegant_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_exclusive_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_professional_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_template_main
+msgid "Cancelled Invoice No:"
+msgstr "Annulé NumFacture:"
+
+#. module: biztech_report_template
+#: model:ir.ui.view,arch_db:biztech_report_template.exclusive_header
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_advanced_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_creative_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_elegant_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_professional_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_template_main
+msgid "Cancelled Invoice To:"
+msgstr "Facture Annulé Pour:"
+
+#. module: biztech_report_template
+#: model:ir.model,name:biztech_report_template.model_res_company
+msgid "Companies"
+msgstr "Sociétés"
+
+#. module: biztech_report_template
+#: model:ir.model.fields,field_description:biztech_report_template.field_res_company_company_address_color
+msgid "Company Address Color"
+msgstr "Société Adresse couleur"
+
+#. module: biztech_report_template
+#: model:ir.model.fields,field_description:biztech_report_template.field_res_company_company_color
+msgid "Company Name Color"
+msgstr "Nom de l'entreprise Couleur"
+
+#. module: biztech_report_template
+#: model:ir.actions.report.xml,name:biztech_report_template.report_invoice_template_contemporary
+msgid "Contemporary"
+msgstr "Contemporain"
+
+#. module: biztech_report_template
+#: model:ir.actions.report.xml,name:biztech_report_template.report_invoice_template_creative
+msgid "Creative"
+msgstr "Créatif"
+
+#. module: biztech_report_template
+#: model:ir.model.fields,field_description:biztech_report_template.field_res_company_customer_address_color
+msgid "Customer Address Color"
+msgstr "Adresse du client Couleur"
+
+#. module: biztech_report_template
+#: model:ir.model.fields,field_description:biztech_report_template.field_res_company_customer_color
+msgid "Customer Name Color"
+msgstr "Nom du client Couleur"
+
+#. module: biztech_report_template
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_advanced_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_creative_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_elegant_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_exclusive_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_professional_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_template_main
+msgid "Date"
+msgstr "date"
+
+#. module: biztech_report_template
+#: model:ir.model.fields,field_description:biztech_report_template.field_res_company_report_template_id
+#: model:ir.model.fields,field_description:biztech_report_template.field_res_company_report_template_id1
+msgid "Default Invoice Template"
+msgstr "Par défaut Modèle de facture"
+
+#. module: biztech_report_template
+#: model:ir.ui.view,arch_db:biztech_report_template.view_report_company_invoice_template
+msgid "Default Report Settings"
+msgstr "Rapport de paramètres par défaut"
+
+#. module: biztech_report_template
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_advanced_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_creative_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_elegant_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_exclusive_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_professional_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_template_main
+msgid "Description"
+msgstr "La description"
+
+#. module: biztech_report_template
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_advanced_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_creative_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_elegant_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_exclusive_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_professional_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_template_main
+msgid "Disc.(%)"
+msgstr "Rem.(%)"
+
+#. module: biztech_report_template
+#: model:ir.model.fields,field_description:biztech_report_template.field_res_company_is_company_bold
+msgid "Display Company Name in Bold"
+msgstr "Afficher Nom de la société en caractères gras"
+
+#. module: biztech_report_template
+#: model:ir.model.fields,field_description:biztech_report_template.field_res_company_is_customer_bold
+msgid "Display Customer Name in Bold"
+msgstr "Affichage Nom du client en caractères gras"
+
+#. module: biztech_report_template
+#: model:ir.model.fields,field_description:biztech_report_template.field_res_company_is_description
+msgid "Display Product Description"
+msgstr "Description Affichage du produit"
+
+#. module: biztech_report_template
+#: model:ir.ui.view,arch_db:biztech_report_template.advanced_header
+#: model:ir.ui.view,arch_db:biztech_report_template.professional_header
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_advanced_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_creative_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_elegant_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_exclusive_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_professional_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_template_main
+msgid "Draft Invoice"
+msgstr "Projet de facture"
+
+#. module: biztech_report_template
+#: model:ir.ui.view,arch_db:biztech_report_template.exclusive_header
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_advanced_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_creative_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_elegant_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_professional_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_template_main
+msgid "Draft Invoice To:"
+msgstr "Projet de facture:"
+
+#. module: biztech_report_template
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_advanced_main_header
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_creative_main_header
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_elegant_main_header
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_exclusive_main_header
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_professional_main_header
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_template_main_header
+msgid "Duplicate"
+msgstr "Dupliquer"
+
+#. module: biztech_report_template
+#: model:ir.actions.report.xml,name:biztech_report_template.report_invoice_template_elegant
+msgid "Elegant"
+msgstr "Élégant"
+
+#. module: biztech_report_template
+#: model:ir.ui.view,arch_db:biztech_report_template.creative_header
+#: model:ir.ui.view,arch_db:biztech_report_template.exclusive_header
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_advanced_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_creative_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_elegant_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_professional_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_template_main
+#: model:ir.ui.view,arch_db:biztech_report_template.template_header
+msgid "Email:"
+msgstr "Courriel :"
+
+#. module: biztech_report_template
+#: model:ir.ui.view,arch_db:biztech_report_template.creative_header
+#: model:ir.ui.view,arch_db:biztech_report_template.exclusive_header
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_advanced_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_creative_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_elegant_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_professional_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_template_main
+#: model:ir.ui.view,arch_db:biztech_report_template.template_header
+msgid "TIN:"
+msgstr "ÉTAIN:"
+
+#. module: biztech_report_template
+#: model:ir.actions.report.xml,name:biztech_report_template.report_invoice_template_exclusive
+msgid "Exclusive"
+msgstr "Exclusif"
+
+#. module: biztech_report_template
+#: model:ir.model.fields,field_description:biztech_report_template.field_res_company_text_color
+msgid "General Text Color"
+msgstr "Texte général Couleur"
+
+#. module: biztech_report_template
+#: model:ir.model,name:biztech_report_template.model_account_invoice
+#: model:ir.ui.view,arch_db:biztech_report_template.advanced_header
+#: model:ir.ui.view,arch_db:biztech_report_template.professional_header
+msgid "Invoice"
+msgstr "Facture"
+
+#. module: biztech_report_template
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_advanced_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_creative_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_elegant_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_exclusive_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_professional_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_template_main
+msgid "Invoice No:"
+msgstr "NumFacture:"
+
+#. module: biztech_report_template
+#: model:ir.model.fields,field_description:biztech_report_template.field_account_invoice_report_template_id
+#: model:ir.model.fields,field_description:biztech_report_template.field_account_invoice_report_template_id1
+#: model:ir.model.fields,field_description:biztech_report_template.field_res_partner_report_template_id
+#: model:ir.model.fields,field_description:biztech_report_template.field_res_partner_report_template_id1
+#: model:ir.ui.view,arch_db:biztech_report_template.view_report_partner_invoice_template
+msgid "Invoice Template"
+msgstr "Modèle de facture"
+
+#. module: biztech_report_template
+#: model:ir.ui.view,arch_db:biztech_report_template.exclusive_header
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_advanced_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_creative_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_elegant_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_professional_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_template_main
+msgid "Invoice To:"
+msgstr "facture Pour:"
+
+#. module: biztech_report_template
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_advanced_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_creative_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_elegant_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_exclusive_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_professional_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_template_main
+msgid "Method"
+msgstr "méthode"
+
+#. module: biztech_report_template
+#: model:ir.ui.view,arch_db:biztech_report_template.creative_header
+#: model:ir.ui.view,arch_db:biztech_report_template.exclusive_header
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_advanced_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_creative_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_elegant_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_professional_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_template_main
+#: model:ir.ui.view,arch_db:biztech_report_template.template_header
+msgid "Mobile:"
+msgstr "Mobile:"
+
+#. module: biztech_report_template
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_advanced_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_creative_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_elegant_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_exclusive_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_professional_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_template_main
+msgid "PO:"
+msgstr "PO:"
+
+#. module: biztech_report_template
+#: model:ir.ui.view,arch_db:biztech_report_template.advanced_header
+#: model:ir.ui.view,arch_db:biztech_report_template.professional_header
+msgid "PRO-FORMA"
+msgstr "PRO-FORMA"
+
+#. module: biztech_report_template
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_advanced_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_creative_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_elegant_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_exclusive_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_professional_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_template_main
+msgid "PRO-FORMA No:"
+msgstr "PRO-FORMA Non:"
+
+#. module: biztech_report_template
+#: model:ir.ui.view,arch_db:biztech_report_template.exclusive_header
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_advanced_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_creative_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_elegant_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_professional_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_template_main
+msgid "PRO-FORMA To:"
+msgstr "PRO-FORMA Pour:"
+
+#. module: biztech_report_template
+#: model:ir.model,name:biztech_report_template.model_res_partner
+msgid "Partner"
+msgstr "Partenaire"
+
+#. module: biztech_report_template
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_elegant_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_exclusive_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_professional_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_template_main
+msgid "Payment History"
+msgstr "historique de paiement"
+
+#. module: biztech_report_template
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_exclusive_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_professional_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_template_main
+msgid "Payments is Pending"
+msgstr "Les paiements est en attente"
+
+#. module: biztech_report_template
+#: model:ir.model.fields,help:biztech_report_template.field_res_company_is_company_bold
+msgid "Please check it if you want to show Company Name in Bold."
+msgstr "S'il vous plaît vérifier si vous voulez montrer Nom de la société en caractères gras."
+
+#. module: biztech_report_template
+#: model:ir.model.fields,help:biztech_report_template.field_res_company_is_customer_bold
+msgid "Please check it if you want to show Customer Name in Bold."
+msgstr "S'il vous plaît vérifier si vous souhaitez afficher le nom du client en gras."
+
+#. module: biztech_report_template
+#: model:ir.model.fields,help:biztech_report_template.field_res_company_is_description
+msgid "Please check it if you want to show product description in report."
+msgstr "S'il vous plaît vérifier si vous voulez afficher la description du produit dans le rapport."
+
+#. module: biztech_report_template
+#: model:ir.model.fields,help:biztech_report_template.field_account_invoice_report_template_id
+#: model:ir.model.fields,help:biztech_report_template.field_account_invoice_report_template_id1
+#: model:ir.model.fields,help:biztech_report_template.field_res_company_report_template_id
+#: model:ir.model.fields,help:biztech_report_template.field_res_company_report_template_id1
+#: model:ir.model.fields,help:biztech_report_template.field_res_partner_report_template_id
+#: model:ir.model.fields,help:biztech_report_template.field_res_partner_report_template_id1
+msgid "Please select Template report for Invoice"
+msgstr "S'il vous plaît sélectionner un modèle de rapport pour la facture"
+
+#. module: biztech_report_template
+#: model:ir.model.fields,help:biztech_report_template.field_res_company_company_address_color
+msgid "Please set Hex color for Company Address."
+msgstr "S'il vous plaît définir la couleur Hex pour la Compagnie Adresse."
+
+#. module: biztech_report_template
+#: model:ir.model.fields,help:biztech_report_template.field_res_company_company_color
+msgid "Please set Hex color for Company Name."
+msgstr "S'il vous plaît définir la couleur Hex pour Nom de l'entreprise."
+
+#. module: biztech_report_template
+#: model:ir.model.fields,help:biztech_report_template.field_res_company_customer_address_color
+msgid "Please set Hex color for Customer Address."
+msgstr "S'il vous plaît définir la couleur Hex pour adresse du client."
+
+#. module: biztech_report_template
+#: model:ir.model.fields,help:biztech_report_template.field_res_company_customer_color
+msgid "Please set Hex color for Customer Name."
+msgstr "S'il vous plaît définir la couleur Hex pour Nom du client."
+
+#. module: biztech_report_template
+#: model:ir.model.fields,help:biztech_report_template.field_res_company_text_color
+msgid "Please set Hex color for General Text."
+msgstr "S'il vous plaît définir la couleur Hex pour Text général."
+
+#. module: biztech_report_template
+#: model:ir.model.fields,help:biztech_report_template.field_res_company_even_party_color
+msgid "Please set Hex color for Table Even Parity."
+msgstr "S'il vous plaît définir la couleur Hex pour le tableau Même parité."
+
+#. module: biztech_report_template
+#: model:ir.model.fields,help:biztech_report_template.field_res_company_odd_party_color
+msgid "Please set Hex color for Table Odd Parity."
+msgstr "S'il vous plaît définir la couleur Hex pour le tableau Odd Parité."
+
+#. module: biztech_report_template
+#: model:ir.model.fields,help:biztech_report_template.field_res_company_theme_text_color
+msgid "Please set Hex color for Template Text."
+msgstr "S'il vous plaît définir la couleur Hex pour modèle texte."
+
+#. module: biztech_report_template
+#: model:ir.model.fields,help:biztech_report_template.field_res_company_theme_color
+msgid "Please set Hex color for Template."
+msgstr "S'il vous plaît définir la couleur Hex pour modèle."
+
+#. module: biztech_report_template
+#: model:ir.model.fields,help:biztech_report_template.field_res_company_watermark_logo
+msgid "Please set Watermark Logo for Report."
+msgstr "S'il vous plaît définir Watermark Logo pour le rapport."
+
+#. module: biztech_report_template
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_advanced_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_creative_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_elegant_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_exclusive_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_professional_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_template_main
+msgid "Price"
+msgstr "Prix"
+
+#. module: biztech_report_template
+#: model:ir.actions.report.xml,name:biztech_report_template.report_invoice_template_professional
+msgid "Professional"
+msgstr "Professionnel"
+
+#. module: biztech_report_template
+#: model:ir.model,name:biztech_report_template.model_purchase_order
+msgid "Purchase Order"
+msgstr "Commande fournisseur"
+
+#. module: biztech_report_template
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_advanced_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_creative_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_elegant_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_exclusive_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_professional_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_template_main
+msgid "Quantity"
+msgstr "Quantité"
+
+#. module: biztech_report_template
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_advanced_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_creative_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_elegant_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_exclusive_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_professional_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_template_main
+msgid "Ref."
+msgstr "Ref."
+
+#. module: biztech_report_template
+#: model:ir.ui.view,arch_db:biztech_report_template.advanced_header
+#: model:ir.ui.view,arch_db:biztech_report_template.professional_header
+msgid "Refund"
+msgstr "Rembourser"
+
+#. module: biztech_report_template
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_advanced_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_creative_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_elegant_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_exclusive_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_professional_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_template_main
+msgid "Refund No:"
+msgstr "remboursement Non:"
+
+#. module: biztech_report_template
+#: model:ir.ui.view,arch_db:biztech_report_template.exclusive_header
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_advanced_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_creative_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_elegant_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_professional_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_template_main
+msgid "Refund To:"
+msgstr "remboursement Pour:"
+
+#. module: biztech_report_template
+#: model:ir.model,name:biztech_report_template.model_report
+msgid "Report"
+msgstr "Rapport"
+
+#. module: biztech_report_template
+#: model:ir.ui.view,arch_db:biztech_report_template.view_report_partner_invoice_template
+msgid "Report Configuration"
+msgstr "Rapport de configuration"
+
+#. module: biztech_report_template
+#: model:ir.model.fields,field_description:biztech_report_template.field_res_company_invoice_logo
+msgid "Report Logo"
+msgstr "Rapport Logo"
+
+#. module: biztech_report_template
+#: model:ir.model.fields,field_description:biztech_report_template.field_res_company_watermark_logo
+msgid "Report Watermark Logo"
+msgstr "Rapport Watermark Logo"
+
+#. module: biztech_report_template
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_advanced_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_creative_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_elegant_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_exclusive_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_professional_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_template_main
+msgid "SO:"
+msgstr "SO:"
+
+#. module: biztech_report_template
+#: model:ir.model,name:biztech_report_template.model_sale_order
+msgid "Sales Order"
+msgstr "Bon de commande"
+
+#. module: biztech_report_template
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_advanced_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_creative_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_elegant_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_exclusive_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_professional_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_template_main
+msgid "Sr."
+msgstr "Sr."
+
+#. module: biztech_report_template
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_advanced_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_creative_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_elegant_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_exclusive_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_professional_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_template_main
+msgid "SubTotal"
+msgstr "Sous-Total"
+
+#. module: biztech_report_template
+#: model:ir.model.fields,field_description:biztech_report_template.field_res_company_even_party_color
+msgid "Table Even Parity Color"
+msgstr "Tableau Même parité couleur"
+
+#. module: biztech_report_template
+#: model:ir.model.fields,field_description:biztech_report_template.field_res_company_odd_party_color
+msgid "Table Odd Parity Color"
+msgstr "Tableau Parité impaire Couleur"
+
+#. module: biztech_report_template
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_advanced_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_creative_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_elegant_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_exclusive_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_professional_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_template_main
+msgid "Taxes"
+msgstr "Taxes"
+
+#. module: biztech_report_template
+#: model:ir.model.fields,field_description:biztech_report_template.field_res_company_theme_color
+msgid "Template Base Color"
+msgstr "Modèle de couleur de base"
+
+#. module: biztech_report_template
+#: model:ir.model.fields,field_description:biztech_report_template.field_res_company_theme_text_color
+msgid "Template Text Color"
+msgstr "Text Template couleur"
+
+#. module: biztech_report_template
+#: model:ir.model.fields,help:biztech_report_template.field_res_company_invoice_logo
+msgid "This field holds the image used as Logo for Invoice template report"
+msgstr "Ce champ contient l'image utilisée comme logo pour le rapport de modèle de facture"
+
+#. module: biztech_report_template
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_advanced_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_creative_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_elegant_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_exclusive_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_professional_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_template_main
+msgid "Unit Price"
+msgstr "Prix unitaire"
+
+#. module: biztech_report_template
+#: model:ir.ui.view,arch_db:biztech_report_template.advanced_header
+#: model:ir.ui.view,arch_db:biztech_report_template.professional_header
+msgid "Vendor Bill"
+msgstr "Facture fournisseur"
+
+#. module: biztech_report_template
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_advanced_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_creative_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_elegant_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_exclusive_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_professional_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_template_main
+msgid "Vendor Bill No:"
+msgstr "Vendeur Facture Non:"
+
+#. module: biztech_report_template
+#: model:ir.ui.view,arch_db:biztech_report_template.exclusive_header
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_advanced_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_creative_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_elegant_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_professional_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_template_main
+msgid "Vendor Bill To:"
+msgstr "Vendeur Facture pour:"
+
+#. module: biztech_report_template
+#: model:ir.ui.view,arch_db:biztech_report_template.advanced_header
+#: model:ir.ui.view,arch_db:biztech_report_template.professional_header
+msgid "Vendor Refund"
+msgstr "Vendeur Rembourser"
+
+#. module: biztech_report_template
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_advanced_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_creative_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_elegant_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_exclusive_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_professional_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_template_main
+msgid "Vendor Refund No:"
+msgstr "Vendeur Rembourser Non:"
+
+#. module: biztech_report_template
+#: model:ir.ui.view,arch_db:biztech_report_template.exclusive_header
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_advanced_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_creative_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_elegant_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_professional_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_template_main
+msgid "Vendor Refund To:"
+msgstr "Vendeur Rembourser pour:"
+
+#. module: biztech_report_template
+#: model:ir.ui.view,arch_db:biztech_report_template.view_report_company_invoice_template
+msgid "like #2763a1"
+msgstr "comme #2763a1"
+
+#. module: biztech_report_template
+#: model:ir.ui.view,arch_db:biztech_report_template.view_report_company_invoice_template
+msgid "like #2763c1"
+msgstr "comme #2763c1"
+
+#. module: biztech_report_template
+#: model:ir.ui.view,arch_db:biztech_report_template.view_report_company_invoice_template
+msgid "like #5bb3d2"
+msgstr "comme #5bb3d2"
+
+#. module: biztech_report_template
+#: model:ir.ui.view,arch_db:biztech_report_template.view_report_company_invoice_template
+msgid "like #5cc2d2"
+msgstr "comme #5cc2d2"
+
+#. module: biztech_report_template
+#: model:ir.ui.view,arch_db:biztech_report_template.view_report_company_invoice_template
+msgid "like #aea8a8"
+msgstr "comme #aea8a8"
+
+#. module: biztech_report_template
+#: model:ir.ui.view,arch_db:biztech_report_template.view_report_company_invoice_template
+msgid "like #aea8aa"
+msgstr "comme #aea8aa"
+
+#. module: biztech_report_template
+#: model:ir.ui.view,arch_db:biztech_report_template.view_report_company_invoice_template
+msgid "like #b30000"
+msgstr "comme #b30000"
+
+#. module: biztech_report_template
+#: model:ir.ui.view,arch_db:biztech_report_template.view_report_company_invoice_template
+msgid "like #b30010"
+msgstr "comme #b30010"
+
+#. module: biztech_report_template
+#: model:ir.ui.view,arch_db:biztech_report_template.view_report_company_invoice_template
+msgid "like #d4d2d2"
+msgstr "comme #d4d2d2"
+
+#. module: biztech_report_template
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_advanced_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_creative_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_elegant_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_exclusive_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_professional_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_template_main
+msgid "total"
+msgstr "total"
+
+#. module: biztech_report_template
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_advanced_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_creative_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_elegant_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_exclusive_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_professional_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_template_main
+msgid "Payment Status: Fully Paid"
+msgstr "Statut de paiement: Totalement payé"
+
+#. module: biztech_report_template
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_advanced_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_creative_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_elegant_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_exclusive_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_professional_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_template_main
+msgid "Payment Status: Partial Paid"
+msgstr "Statut de paiement: Partiellement payé"
+
+#. module: biztech_report_template
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_advanced_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_creative_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_elegant_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_exclusive_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_professional_main
+#: model:ir.ui.view,arch_db:biztech_report_template.report_invoice_template_main
+msgid "Payment Status: Pending"
+msgstr "Statut de paiement: en attendant"
