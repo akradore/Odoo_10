@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <templates id="template_custom_latest_extended" inherit_id="point_of_sale.template" xml:space="preserve">
+
+  
+   <t t-extend="ClientDetails">
+        <t t-jquery=".client-details-right" t-operation="append">
+            <div class="client-detail">
+                <span class='label'>Credit Amount</span>
+                <span> <t t-esc='partner.custom_credit'/></span>
+            </div>
+        </t>
+    </t>
+    
+    <t t-extend="ActionpadWidget">
+        <t t-jquery="t[t-if*='!widget.pos.get_client()']" t-operation="after">
+            <br/>
+            <t t-esc="(widget.pos.get_client() ? ' [Credit : ' + (Math.round(widget.pos.get_client().custom_credit * 100) / 100).toString() + ']': '')"/>
+        </t>
+    </t>
+
+    <t t-extend="PaymentScreenWidget">
+        <t t-jquery="t[t-if*='!widget.pos.get_client()']" t-operation="after">
+            <t t-esc="(widget.pos.get_client() ? ' [Credit: ' + (Math.round(widget.pos.get_client().custom_credit * 100) / 100).toString() + ']': '')"/>
+        </t>
+    </t>
+    
+  	</templates>

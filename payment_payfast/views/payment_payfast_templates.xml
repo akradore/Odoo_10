@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <template id="payfast_acquirer_button">
+        <form t-att-action="tx_url" method="post" target="_self">
+
+            <input type="hidden" name="merchant_id" t-att-value="merchant_id"/>
+            <input type="hidden" name="merchant_key" t-att-value="merchant_key"/>
+            <input type="hidden" name="amount" t-att-value="amount"/>
+            <input type="hidden" name="item_name" t-att-value="item_name"/>
+            <input type="hidden" name="return_url" t-att-value="return_url"/>
+            <input type="hidden" name="cancel_url" t-att-value="cancel_url"/>
+            <input type="hidden" name="notify_url" t-att-value="notify_url"/>
+            <input type="hidden" name="reference" t-att-value="reference"/>
+            
+            <!-- SUBMIT-->
+            <button type="submit" width="100px"
+                t-att-class="submit_class">
+                <img t-if="not submit_txt" src="/payment_payfast/static/src/img/payfast_icon.png"/>
+                <span t-if="submit_txt"><t t-esc="submit_txt"/> <span class="fa fa-long-arrow-right"/></span>
+            </button>
+        </form>
+    </template>
+</odoo>

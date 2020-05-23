@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<openerp>
+    <data>
+        <!--Custom Sale Order View-->        
+
+    <record model="ir.ui.view" id="credit_detail_button_res_partner">
+            <field name="name">credit.detail.button.res.partner</field>
+            <field name="model">res.partner</field>
+            <field name="inherit_id" ref="base.view_partner_form"/>
+            <field name="arch" type="xml">
+                <div name="button_box" position="inside">
+                    <button class="oe_stat_button" name="action_view_credit_detail"
+                        type="object" icon="fa-usd">
+                        <field string="Credit" name="custom_credit" widget="statinfo" />
+                    </button>
+                </div>
+            </field>
+        </record>
+
+
+
+<record id="view_credit_tree" model="ir.ui.view">
+            <field name="name">view.credit.tree</field>
+            <field name="model">partner.credit</field>
+            <field name="arch" type="xml">
+                <tree string="Credit Details"  editable="bottom">
+                    <field name="partner_id"/>
+                    <field name="credit"/>
+                    <field name="update"/>
+                    <button name="do_update" string="Update" type="object"/>
+                </tree>
+            </field>
+        </record>
+
+<record model="ir.actions.act_window" id="action_pos_credit">
+            <field name="name">Credit Details</field>
+            <field name="res_model">partner.credit</field>
+            <field name="view_type">form</field>
+            <field name="view_mode">tree</field>
+            <field name="view_id" ref="view_credit_tree"/>
+        </record>
+
+
+
+
+       <menuitem name="Credit"
+            id="menu_sale_credit" parent="sales_team.menu_base_partner"
+            />
+       <menuitem action="action_pos_credit"
+            id="menu_sale_order_invoice" parent="menu_sale_credit"
+       />
+
+        
+    </data>
+</openerp>        
